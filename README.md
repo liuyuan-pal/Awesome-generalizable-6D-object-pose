@@ -24,6 +24,8 @@ Fusing Local Similarities for Retrieval-based 3D Orientation Estimation of Unsee
 
 ### Others
 
+[ICRA2022] CenterSnap: Single-Shot Multi-Object 3D Shape Reconstruction and Categorical 6D Pose and Size Estimation. [\[PDF\]](https://arxiv.org/pdf/2203.01929) [\[Project\]](https://zubair-irshad.github.io/projects/CenterSnap.html) [\[Code\]](https://github.com/zubair-irshad/CenterSnap) [\[Video\]](https://www.youtube.com/watch?v=Bg5vi6DSMdM)
+
 [Arxiv2022] Unseen Object 6D Pose Estimation: A Benchmark and Baselines \[[paper](https://arxiv.org/pdf/2206.11808.pdf)\] \[[dataset](https://graspnet.net/unseen6d)\]
 
 [IROS2021] BundleTrack: 6D Pose Tracking for Novel Objects without Instance or Category-Level 3D Models \[[paper](https://arxiv.org/abs/2108.00516)\] \[[code](https://github.com/wenbowen123/BundleTrack)\]
