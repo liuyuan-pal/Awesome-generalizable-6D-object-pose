@@ -18,6 +18,8 @@ OSOP: A Multi-Stage One Shot Object Pose Estimation Framework \[[paper](https://
 
 ### ECCV2022
 
+ShAPO :tophat:: Implicit Representations for Multi Object Shape Appearance and Pose Optimization, *ECCV, 2022*. [[Paper](https://arxiv.org/pdf/2207.13691.pdf)] [[Webpage](https://zubair-irshad.github.io/projects/ShAPO.html)] [[Video](https://youtu.be/LMg7NDcLDcA)] 
+
 Gen6D: Generalizable Model-Free 6-DoF Object Pose Estimation from RGB Images \[[paper](https://arxiv.org/pdf/2204.10776.pdf)\] \[[code](https://github.com/liuyuan-pal/Gen6D)\]
 
 Fusing Local Similarities for Retrieval-based 3D Orientation Estimation of Unseen Objects \[[paper](https://arxiv.org/pdf/2203.08472.pdf)\] \[[code](https://github.com/sailor-z/Unseen_Object_Pose)\]
