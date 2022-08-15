@@ -55,14 +55,18 @@ Fusing Local Similarities for Retrieval-based 3D Orientation Estimation of Unsee
 [ICCV2011] Multimodal templates for real-time detection of texture-less objects in heavily cluttered scenes \[[paper](https://campar.in.tum.de/pub/hinterstoisser2011linemod/hinterstoisser2011linemod.pdf)\]
 
 ### NeRF for 6D Object Pose
+[ECCV2022] Neural Correspondence Field for Object Pose Estimation \[[paper](https://arxiv.org/abs/2208.00113)\] \[[project](https://linhuang17.github.io/NCF/)\] \[[code](https://github.com/LinHuang17/NCF-code)\]
 
-[ICRA2022] NeRF-Supervision: Learning Dense Object Descriptors from Neural Radiance Fields \[[paper](https://arxiv.org/pdf/2203.01913.pdf)\] \[[code]()\]
+[ECCV2022] Neural-Sim: Learning to Generate Training Data with NeRF \[[paper](https://arxiv.org/abs/2207.11368)\] \[[code](https://github.com/gyhandy/Neural-Sim-NeRF)\]
+
+[ICRA2022] NeRF-Supervision: Learning Dense Object Descriptors from Neural Radiance Fields \[[paper](https://arxiv.org/pdf/2203.01913.pdf)\] \[[code](https://github.com/yenchenlin/nerf-supervision-public)\]
 
 [ArXiv2022] NeRF-Pose: A First-Reconstruct-Then-Regress Approach for Weakly-supervised 6D Object Pose Estimation \[[paper](https://arxiv.org/pdf/2203.04802.pdf)\]
 
 [ArXiv2021] Neural Descriptor Fields: SE(3)-Equivariant Object Representations for Manipulation \[[paper](https://yilundu.github.io/ndf/)\]
 
 [IROS2021] iNeRF Inverting Neural Radiance Fields for Pose Estimation \[[paper](https://arxiv.org/pdf/2012.05877.pdf)\] \[[code](https://github.com/yenchenlin/iNeRF-public)\]
+
 
 
 
