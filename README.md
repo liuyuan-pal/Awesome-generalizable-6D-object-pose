@@ -25,6 +25,7 @@ Gen6D: Generalizable Model-Free 6-DoF Object Pose Estimation from RGB Images \[[
 Fusing Local Similarities for Retrieval-based 3D Orientation Estimation of Unseen Objects \[[paper](https://arxiv.org/pdf/2203.08472.pdf)\] \[[code](https://github.com/sailor-z/Unseen_Object_Pose)\]
 
 ### Others
+[3DV2022] PIZZA: A Powerful Image-only Zero-Shot Zero-CAD Approach to 6 DoF Tracking \[[paper](https://arxiv.org/pdf/2209.07589.pdf)\] \[[code](https://github.com/nv-nguyen/pizza)\]
 
 [ICRA2022] CenterSnap: Single-Shot Multi-Object 3D Shape Reconstruction and Categorical 6D Pose and Size Estimation. [\[PDF\]](https://arxiv.org/pdf/2203.01929) [\[Project\]](https://zubair-irshad.github.io/projects/CenterSnap.html) [\[Code\]](https://github.com/zubair-irshad/CenterSnap) [\[Video\]](https://www.youtube.com/watch?v=Bg5vi6DSMdM)
 
