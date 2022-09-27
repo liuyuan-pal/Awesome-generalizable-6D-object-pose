@@ -24,6 +24,8 @@ Gen6D: Generalizable Model-Free 6-DoF Object Pose Estimation from RGB Images \[[
 
 Fusing Local Similarities for Retrieval-based 3D Orientation Estimation of Unseen Objects \[[paper](https://arxiv.org/pdf/2203.08472.pdf)\] \[[code](https://github.com/sailor-z/Unseen_Object_Pose)\]
 
+DISP6D: Disentangled Implicit Shape and Pose Learning for Scalable 6D Pose Estimation. \[[paper](https://arxiv.org/abs/2107.12549)\] \[[code](https://github.com/fylwen/DISP-6D)\] \[[webpage](https://fylwen.github.io/disp6d.html)\]
+
 ### Others
 [3DV2022] PIZZA: A Powerful Image-only Zero-Shot Zero-CAD Approach to 6 DoF Tracking \[[paper](https://arxiv.org/pdf/2209.07589.pdf)\] \[[code](https://github.com/nv-nguyen/pizza)\]
 
