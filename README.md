@@ -27,6 +27,10 @@ Fusing Local Similarities for Retrieval-based 3D Orientation Estimation of Unsee
 DISP6D: Disentangled Implicit Shape and Pose Learning for Scalable 6D Pose Estimation. \[[paper](https://arxiv.org/abs/2107.12549)\] \[[code](https://github.com/fylwen/DISP-6D)\] \[[webpage](https://fylwen.github.io/disp6d.html)\]
 
 ### Others
+[NeurIPS2022] OnePose++: Keypoint-Free One-Shot Object Pose Estimation without CAD Models \[[paper](https://openreview.net/pdf?id=BZ92dxDS3tO)\] \[[code](https://github.com/zju3dv/OnePose_Plus_Plus)\]
+
+[CoRL2022] MegaPose: 6D Pose Estimation of Novel Objects via Render & Compare \[[paper](https://arxiv.org/abs/2212.06870)\] \[[code](https://github.com/megapose6d/megapose6d)\]
+
 [3DV2022] PIZZA: A Powerful Image-only Zero-Shot Zero-CAD Approach to 6 DoF Tracking \[[paper](https://arxiv.org/pdf/2209.07589.pdf)\] \[[code](https://github.com/nv-nguyen/pizza)\]
 
 [ICRA2022] CenterSnap: Single-Shot Multi-Object 3D Shape Reconstruction and Categorical 6D Pose and Size Estimation. [\[PDF\]](https://arxiv.org/pdf/2203.01929) [\[Project\]](https://zubair-irshad.github.io/projects/CenterSnap.html) [\[Code\]](https://github.com/zubair-irshad/CenterSnap) [\[Video\]](https://www.youtube.com/watch?v=Bg5vi6DSMdM)
