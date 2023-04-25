@@ -5,7 +5,15 @@ There is a recent trend of learning a generalizable 6DoF object pose estimator. 
 ## Paper List
 
 ### Updating
+
+
 [CVPR2023] BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects \[[paper](https://arxiv.org/abs/2303.14158)\]
+
+[Arxiv2023] PoseMatcher: One-shot 6D Object Pose Estimation by Deep Feature Matching \[[paper](https://arxiv.org/abs/2304.01382)\]
+
+[Arxiv2023] Open Challenges for Monocular Single-shot 6D Object Pose Estimation \[[paper](https://arxiv.org/abs/2302.11827)\]
+
+[Arxiv2023] LocPoseNet: Robust Location Prior for Unseen Object Pose Estimation \[[paper](https://arxiv.org/abs/2211.16290)\]
 
 [Arxiv2023] Few-View Object Reconstruction with Unknown Categories and Camera Poses \[[paper](https://arxiv.org/abs/2212.04492)\]
 
