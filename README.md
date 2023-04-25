@@ -4,6 +4,14 @@ There is a recent trend of learning a generalizable 6DoF object pose estimator. 
 
 ## Paper List
 
+### Updating
+[CVPR2023] BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects \[[paper](https://arxiv.org/abs/2303.14158)\]
+
+[Arxiv2023] Few-View Object Reconstruction with Unknown Categories and Camera Poses \[[paper](https://arxiv.org/abs/2212.04492)\]
+
+[Arxiv2023] NOPE: Novel Object Pose Estimation from a Single Image \[[paper](https://arxiv.org/abs/2303.13612)\]
+
+
 ### CVPR2022
 
 Templates for 3D Object Pose Estimation Revisited: Generalization to New Objects and Robustness to Occlusions \[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Nguyen_Templates_for_3D_Object_Pose_Estimation_Revisited_Generalization_to_New_CVPR_2022_paper.pdf)\] \[[code](https://github.com/nv-nguyen/template-pose)\]
@@ -73,6 +81,7 @@ DISP6D: Disentangled Implicit Shape and Pose Learning for Scalable 6D Pose Estim
 [ArXiv2021] Neural Descriptor Fields: SE(3)-Equivariant Object Representations for Manipulation \[[paper](https://yilundu.github.io/ndf/)\]
 
 [IROS2021] iNeRF Inverting Neural Radiance Fields for Pose Estimation \[[paper](https://arxiv.org/pdf/2012.05877.pdf)\] \[[code](https://github.com/yenchenlin/iNeRF-public)\]
+
 
 
 
